@@ -1,0 +1,29 @@
+<UserSettings>
+	<override-colours caret="839496" indentGuides="eee8d5" selBack="073642"></override-colours>
+	<override-classes>
+		<style-class fore="93a1a1" name="attribute"></style-class>
+		<style-class fore="93a1a1" name="boxcomment"></style-class>
+		<style-class fore="d33682" name="bracematch"></style-class>
+		<style-class fore="dc322f" name="bracemismatch"></style-class>
+		<style-class fore="2aa198" name="character"></style-class>
+		<style-class fore="268bd2" name="class"></style-class>
+		<style-class fore="93a1a1" name="comment"></style-class>
+		<style-class fore="839496" name="commentbox"></style-class>
+		<style-class fore="839496" name="commentdoc"></style-class>
+		<style-class fore="93a1a1" name="commentline"></style-class>
+		<style-class bold="true" fore="4a413a" name="controlchars"></style-class>
+		<style-class back="fdf6e3" fore="657b83" name="default"></style-class>
+		<style-class back="fdf6e3" fore="dc322f" name="error"></style-class>
+		<style-class fore="268bd2" name="function"></style-class>
+		<style-class fore="d38234" name="identifier"></style-class>
+		<style-class bold="true" fore="586e75" name="keyword"></style-class>
+		<style-class fore="859900" name="keyword2"></style-class>
+		<style-class back="eee8d5" fore="93a1a1" name="linenumbers"></style-class>
+		<style-class fore="268bd2" name="number"></style-class>
+		<style-class fore="b58900" name="operator"></style-class>
+		<style-class fore="cb4b16" name="preprocessor"></style-class>
+		<style-class fore="2aa198" name="string"></style-class>
+		<style-class bold="true" fore="268bd2" name="tag"></style-class>
+		<style-class fore="268bd2" name="type"></style-class>
+	</override-classes>
+</UserSettings>
