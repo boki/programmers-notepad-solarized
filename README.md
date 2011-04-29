@@ -1,31 +1,20 @@
-﻿---
-Title: Solarized Colorscheme for Vim
-Description: Precision colors for machines and people
-Author: Ethan Schoonover
-Colors: light yellow
-Created:  2011 Mar 15
-Modified: 2011 Apr 16
-
----
-
-Solarized - Programmer’s Notepad preset
+﻿Solarized - [Programmer’s Notepad] preset
 =======================================
 
 Visit the [Solarized homepage]
 ------------------------------
 
-See the [Solarized homepage] for screenshots, 
-details and colorscheme versions for Vim, Mutt, popular terminal emulators and 
-other applications.
+See the [Solarized homepage] for screenshots, details and colorscheme versions
+for Vim, Mutt, popular terminal emulators and other applications.
 
 
 Installation
 ------------
 
-Copy the xml files into the Programmer's Notepad\presets folder and select the
+Copy the xml files into the `Programmer's Notepad\\presets` folder and select the
 preset in the Options dialog in the "Fonts and Colours/Styles" branch.
 
-Note: currently there seems to be a bug in Programmer’s Notepad that resets the
+Note: currently there seems to be a bug in [Programmer’s Notepad] that resets the
 font size when switching presets so you might want to check it on the
 "Fonts and Colours" branch.
 
@@ -51,4 +40,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-[Solarized homepage]: http://ethanschoonover.com/solarized
+[Programmer’s Notepad]: http://www.pnotepad.org/
+[Solarized homepage]:   http://ethanschoonover.com/solarized
