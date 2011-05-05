@@ -42,5 +42,48 @@
 				<style fore="dc322f" key="19"></style>
 			</override-styles>
 		</scheme>
+		<scheme name="web">
+			<override-styles>
+				<style fore="dc322f" key="2"></style>
+				<style fore="93a1a1" key="8"></style>
+				<style fore="cb4b16" key="10"></style>
+				<style back="fdf6e3" fore="dc322f" key="18"></style>
+				<style back="fdf6e3" fore="93a1a1" italic="true" key="21"></style>
+				<style back="fdf6e3" italic="true" key="22"></style>
+				<style back="fdf6e3" italic="true" key="23"></style>
+				<style back="fdf6e3" italic="true" key="24"></style>
+				<style back="fdf6e3" italic="true" key="25"></style>
+				<style back="fdf6e3" fore="dc322f" italic="true" key="26"></style>
+				<style back="fdf6e3" fore="268bd2" italic="true" key="27"></style>
+				<style back="fdf6e3" italic="true" key="28"></style>
+				<style back="fdf6e3" italic="true" key="29"></style>
+				<style back="fdf6e3" italic="true" key="31"></style>
+				<style fore="657b83" key="41"></style>
+				<style fore="657b83" key="46"></style>
+				<style back="fdf6e3" fore="6c71c4" key="52"></style>
+				<style fore="268bd2" key="123"></style>
+			</override-styles>
+		</scheme>
+		<scheme name="xml">
+			<override-styles>
+				<style fore="dc322f" italic="true" key="2"></style>
+				<style italic="true" key="4"></style>
+				<style fore="93a1a1" key="8"></style>
+				<style fore="cb4b16" key="10"></style>
+				<style back="fdf6e3" fore="cb4b16" key="17"></style>
+				<style fore="dc322f" key="18"></style>
+				<style italic="true" key="19"></style>
+				<style back="fdf6e3" italic="true" key="21"></style>
+				<style back="fdf6e3" italic="true" key="22"></style>
+				<style back="fdf6e3" italic="true" key="23"></style>
+				<style back="fdf6e3" italic="true" key="24"></style>
+				<style back="fdf6e3" italic="true" key="25"></style>
+				<style back="fdf6e3" italic="true" key="26"></style>
+				<style back="fdf6e3" italic="true" key="27"></style>
+				<style back="fdf6e3" italic="true" key="28"></style>
+				<style back="fdf6e3" italic="true" key="29"></style>
+				<style back="fdf6e3" italic="true" key="31"></style>
+			</override-styles>
+		</scheme>
 	</schemes>
 </UserSettings>
