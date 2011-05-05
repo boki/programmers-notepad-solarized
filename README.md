@@ -1,5 +1,5 @@
 ﻿Solarized - [Programmer’s Notepad] preset
-=======================================
+=========================================
 
 Visit the [Solarized homepage]
 ------------------------------
@@ -11,7 +11,7 @@ for Vim, Mutt, popular terminal emulators and other applications.
 Installation
 ------------
 
-Copy the xml files into the `Programmer's Notepad\\presets` folder and select the
+Copy the xml files into the `Programmer's Notepad/presets` folder and select the
 preset in the Options dialog in the "Fonts and Colours/Styles" branch.
 
 Note: currently there seems to be a bug in [Programmer’s Notepad] that resets the
