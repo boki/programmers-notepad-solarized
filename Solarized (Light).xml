@@ -1,5 +1,5 @@
 <UserSettings>
-	<override-colours caret="839496" indentGuides="eee8d5" selBack="073642"></override-colours>
+	<override-colours caret="839496" indentGuides="eee8d5" markAll="dc322f" selBack="d33682" smartHighlight="d33682" templateField="268bd2"></override-colours>
 	<override-classes>
 		<style-class fore="93a1a1" name="attribute"></style-class>
 		<style-class fore="93a1a1" name="boxcomment"></style-class>
@@ -7,23 +7,40 @@
 		<style-class fore="dc322f" name="bracemismatch"></style-class>
 		<style-class fore="2aa198" name="character"></style-class>
 		<style-class fore="268bd2" name="class"></style-class>
-		<style-class fore="93a1a1" name="comment"></style-class>
-		<style-class fore="839496" name="commentbox"></style-class>
+		<style-class fore="93a1a1" italic="true" name="comment"></style-class>
+		<style-class fore="839496" italic="true" name="commentbox"></style-class>
 		<style-class fore="839496" name="commentdoc"></style-class>
-		<style-class fore="93a1a1" name="commentline"></style-class>
+		<style-class fore="93a1a1" italic="true" name="commentline"></style-class>
 		<style-class bold="true" fore="4a413a" name="controlchars"></style-class>
-		<style-class back="fdf6e3" fore="657b83" name="default"></style-class>
+		<style-class back="fdf6e3" fore="657b83" name="default" size="13"></style-class>
 		<style-class back="fdf6e3" fore="dc322f" name="error"></style-class>
 		<style-class fore="268bd2" name="function"></style-class>
 		<style-class fore="d38234" name="identifier"></style-class>
-		<style-class bold="true" fore="586e75" name="keyword"></style-class>
-		<style-class fore="859900" name="keyword2"></style-class>
+		<style-class bold="true" fore="859900" name="keyword"></style-class>
+		<style-class fore="586e75" name="keyword2"></style-class>
 		<style-class back="eee8d5" fore="93a1a1" name="linenumbers"></style-class>
-		<style-class fore="268bd2" name="number"></style-class>
+		<style-class fore="2aa198" name="number"></style-class>
 		<style-class fore="b58900" name="operator"></style-class>
 		<style-class fore="cb4b16" name="preprocessor"></style-class>
 		<style-class fore="2aa198" name="string"></style-class>
 		<style-class bold="true" fore="268bd2" name="tag"></style-class>
 		<style-class fore="268bd2" name="type"></style-class>
+		<style-class fore="dc322f" name="unknownattribute"></style-class>
 	</override-classes>
+	<schemes>
+		<scheme name="cpp" ovtabs="false" usetabs="false">
+			<override-styles>
+				<style fore="268bd2" key="11"></style>
+				<style fore="2aa198" key="8"></style>
+				<style fore="859900" key="16"></style>
+				<style fore="dc322f" key="17"></style>
+			</override-styles>
+		</scheme>
+		<scheme name="php">
+			<override-styles>
+				<style fore="268bd2" key="123"></style>
+				<style fore="dc322f" key="19"></style>
+			</override-styles>
+		</scheme>
+	</schemes>
 </UserSettings>
