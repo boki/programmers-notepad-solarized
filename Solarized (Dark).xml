@@ -1,0 +1,89 @@
+<UserSettings>
+	<override-colours caret="657b83" indentGuides="073642" markAll="dc322f" selBack="d33682" smartHighlight="d33682" templateField="268bd2"></override-colours>
+	<override-classes>
+		<style-class fore="586e75" name="attribute"></style-class>
+		<style-class fore="586e75" name="boxcomment"></style-class>
+		<style-class fore="d33682" name="bracematch"></style-class>
+		<style-class fore="dc322f" name="bracemismatch"></style-class>
+		<style-class fore="2aa198" name="character"></style-class>
+		<style-class fore="268bd2" name="class"></style-class>
+		<style-class fore="586e75" italic="true" name="comment"></style-class>
+		<style-class fore="657b83" italic="true" name="commentbox"></style-class>
+		<style-class fore="657b83" name="commentdoc"></style-class>
+		<style-class fore="586e75" italic="true" name="commentline"></style-class>
+		<style-class bold="true" fore="4a413a" name="controlchars"></style-class>
+		<style-class back="002b36" fore="839496" name="default"></style-class>
+		<style-class back="002b36" fore="dc322f" name="error"></style-class>
+		<style-class fore="268bd2" name="function"></style-class>
+		<style-class fore="d38234" name="identifier"></style-class>
+		<style-class bold="true" fore="859900" name="keyword"></style-class>
+		<style-class fore="93a1a1" name="keyword2"></style-class>
+		<style-class back="073642" fore="586e75" name="linenumbers"></style-class>
+		<style-class fore="2aa198" name="number"></style-class>
+		<style-class fore="b58900" name="operator"></style-class>
+		<style-class fore="cb4b16" name="preprocessor"></style-class>
+		<style-class fore="2aa198" name="string"></style-class>
+		<style-class bold="true" fore="268bd2" name="tag"></style-class>
+		<style-class fore="268bd2" name="type"></style-class>
+		<style-class fore="dc322f" name="unknownattribute"></style-class>
+	</override-classes>
+	<schemes>
+		<scheme name="cpp" ovtabs="false" usetabs="false">
+			<override-styles>
+				<style fore="268bd2" key="11"></style>
+				<style fore="2aa198" key="8"></style>
+				<style fore="859900" key="16"></style>
+				<style fore="dc322f" key="17"></style>
+			</override-styles>
+		</scheme>
+		<scheme name="php">
+			<override-styles>
+				<style fore="268bd2" key="123"></style>
+				<style fore="dc322f" key="19"></style>
+			</override-styles>
+		</scheme>
+		<scheme name="web">
+			<override-styles>
+				<style fore="dc322f" key="2"></style>
+				<style fore="586e75" key="8"></style>
+				<style fore="cb4b16" key="10"></style>
+				<style back="002b36" fore="dc322f" key="18"></style>
+				<style back="002b36" fore="586e75" italic="true" key="21"></style>
+				<style back="002b36" italic="true" key="22"></style>
+				<style back="002b36" italic="true" key="23"></style>
+				<style back="002b36" italic="true" key="24"></style>
+				<style back="002b36" italic="true" key="25"></style>
+				<style back="002b36" fore="dc322f" italic="true" key="26"></style>
+				<style back="002b36" fore="268bd2" italic="true" key="27"></style>
+				<style back="002b36" italic="true" key="28"></style>
+				<style back="002b36" italic="true" key="29"></style>
+				<style back="002b36" italic="true" key="31"></style>
+				<style fore="839496" key="41"></style>
+				<style fore="839496" key="46"></style>
+				<style back="002b36" fore="6c71c4" key="52"></style>
+				<style fore="268bd2" key="123"></style>
+			</override-styles>
+		</scheme>
+		<scheme name="xml">
+			<override-styles>
+				<style fore="dc322f" italic="true" key="2"></style>
+				<style italic="true" key="4"></style>
+				<style fore="586e75" key="8"></style>
+				<style fore="cb4b16" key="10"></style>
+				<style back="002b36" fore="cb4b16" key="17"></style>
+				<style fore="dc322f" key="18"></style>
+				<style italic="true" key="19"></style>
+				<style back="002b36" italic="true" key="21"></style>
+				<style back="002b36" italic="true" key="22"></style>
+				<style back="002b36" italic="true" key="23"></style>
+				<style back="002b36" italic="true" key="24"></style>
+				<style back="002b36" italic="true" key="25"></style>
+				<style back="002b36" italic="true" key="26"></style>
+				<style back="002b36" italic="true" key="27"></style>
+				<style back="002b36" italic="true" key="28"></style>
+				<style back="002b36" italic="true" key="29"></style>
+				<style back="002b36" italic="true" key="31"></style>
+			</override-styles>
+		</scheme>
+	</schemes>
+</UserSettings>
