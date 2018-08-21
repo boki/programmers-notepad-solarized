@@ -42,3 +42,9 @@ THE SOFTWARE.
 
 [Programmer’s Notepad]: http://www.pnotepad.org/
 [Solarized homepage]:   http://ethanschoonover.com/solarized
+
+
+Contribrutors
+-------------
+
+Solarized (Dark) by @ScottRochford
